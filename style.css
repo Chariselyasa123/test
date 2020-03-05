@@ -1,0 +1,9 @@
+.nganu {
+    max-width: 350px;
+    height: 70vh;
+}
+
+.scroll {
+    max-height: 300px;
+    overflow: auto;
+}
